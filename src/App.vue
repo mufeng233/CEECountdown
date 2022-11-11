@@ -17,7 +17,7 @@
 
         <v-spacer></v-spacer>
         <v-icon icon="mdi-wifi-strength-4"></v-icon>
-        <v-icon icon="mdi-signƒl" class="ml-2"></v-icon>
+        <v-icon icon="mdi-signal" class="ml-2"></v-icon>
         <v-icon icon="mdi-battery" class="ml-2"></v-icon>
 
         <span class="ml-2">
